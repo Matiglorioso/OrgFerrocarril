@@ -68,5 +68,15 @@ namespace SP2xResolver
                 btnCalcular.Enabled = false;
             }
         }
+
+        private void txtDistancia_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!(Char.IsDigit(e.KeyChar)) && (e.KeyChar != (char)Keys.Back))
+            {
+                e.Handled = true; // borrar la tecla ingresada
+            }
+
+        }
     }
 }
+

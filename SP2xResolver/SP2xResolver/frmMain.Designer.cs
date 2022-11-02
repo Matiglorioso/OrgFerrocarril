@@ -44,59 +44,67 @@ namespace SP2xResolver
             // lblDistancia
             // 
             this.lblDistancia.AutoSize = true;
-            this.lblDistancia.Location = new System.Drawing.Point(39, 37);
+            this.lblDistancia.Location = new System.Drawing.Point(49, 39);
+            this.lblDistancia.Margin = new System.Windows.Forms.Padding(10, 0, 10, 0);
             this.lblDistancia.Name = "lblDistancia";
-            this.lblDistancia.Size = new System.Drawing.Size(74, 13);
+            this.lblDistancia.Size = new System.Drawing.Size(219, 37);
             this.lblDistancia.TabIndex = 0;
             this.lblDistancia.Text = "Distancia [km]";
             // 
             // lblDias
             // 
             this.lblDias.AutoSize = true;
-            this.lblDias.Location = new System.Drawing.Point(39, 95);
+            this.lblDias.Location = new System.Drawing.Point(49, 204);
+            this.lblDias.Margin = new System.Windows.Forms.Padding(10, 0, 10, 0);
             this.lblDias.Name = "lblDias";
-            this.lblDias.Size = new System.Drawing.Size(28, 13);
+            this.lblDias.Size = new System.Drawing.Size(81, 37);
             this.lblDias.TabIndex = 1;
             this.lblDias.Text = "Dias";
             // 
             // txtDistancia
             // 
-            this.txtDistancia.Location = new System.Drawing.Point(121, 34);
+            this.txtDistancia.Location = new System.Drawing.Point(308, 31);
+            this.txtDistancia.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
             this.txtDistancia.Name = "txtDistancia";
-            this.txtDistancia.Size = new System.Drawing.Size(100, 20);
+            this.txtDistancia.Size = new System.Drawing.Size(308, 44);
             this.txtDistancia.TabIndex = 2;
             this.txtDistancia.TextChanged += new System.EventHandler(this.txtDistancia_TextChanged);
+            this.txtDistancia.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtDistancia_KeyPress);
             // 
             // cmbDias
             // 
             this.cmbDias.FormattingEnabled = true;
-            this.cmbDias.Location = new System.Drawing.Point(121, 92);
+            this.cmbDias.Location = new System.Drawing.Point(308, 196);
+            this.cmbDias.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
             this.cmbDias.Name = "cmbDias";
-            this.cmbDias.Size = new System.Drawing.Size(100, 21);
+            this.cmbDias.Size = new System.Drawing.Size(308, 45);
             this.cmbDias.TabIndex = 3;
             // 
             // lblDistanciaTotal
             // 
             this.lblDistanciaTotal.AutoSize = true;
-            this.lblDistanciaTotal.Location = new System.Drawing.Point(284, 37);
+            this.lblDistanciaTotal.Location = new System.Drawing.Point(899, 105);
+            this.lblDistanciaTotal.Margin = new System.Windows.Forms.Padding(10, 0, 10, 0);
             this.lblDistanciaTotal.Name = "lblDistanciaTotal";
-            this.lblDistanciaTotal.Size = new System.Drawing.Size(141, 13);
+            this.lblDistanciaTotal.Size = new System.Drawing.Size(421, 37);
             this.lblDistanciaTotal.TabIndex = 4;
             this.lblDistanciaTotal.Text = "Distancia Total (ida y vuelta)";
             // 
             // txtDistanciaTotal
             // 
-            this.txtDistanciaTotal.Location = new System.Drawing.Point(431, 34);
+            this.txtDistanciaTotal.Location = new System.Drawing.Point(1365, 97);
+            this.txtDistanciaTotal.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
             this.txtDistanciaTotal.Name = "txtDistanciaTotal";
             this.txtDistanciaTotal.ReadOnly = true;
-            this.txtDistanciaTotal.Size = new System.Drawing.Size(100, 20);
+            this.txtDistanciaTotal.Size = new System.Drawing.Size(308, 44);
             this.txtDistanciaTotal.TabIndex = 5;
             // 
             // btnCalcular
             // 
-            this.btnCalcular.Location = new System.Drawing.Point(567, 34);
+            this.btnCalcular.Location = new System.Drawing.Point(1796, 97);
+            this.btnCalcular.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
             this.btnCalcular.Name = "btnCalcular";
-            this.btnCalcular.Size = new System.Drawing.Size(97, 40);
+            this.btnCalcular.Size = new System.Drawing.Size(307, 114);
             this.btnCalcular.TabIndex = 6;
             this.btnCalcular.Text = "&Calcular";
             this.btnCalcular.UseVisualStyleBackColor = true;
@@ -105,25 +113,28 @@ namespace SP2xResolver
             // lblCostoTotal
             // 
             this.lblCostoTotal.AutoSize = true;
-            this.lblCostoTotal.Location = new System.Drawing.Point(39, 162);
+            this.lblCostoTotal.Location = new System.Drawing.Point(49, 395);
+            this.lblCostoTotal.Margin = new System.Windows.Forms.Padding(10, 0, 10, 0);
             this.lblCostoTotal.Name = "lblCostoTotal";
-            this.lblCostoTotal.Size = new System.Drawing.Size(61, 13);
+            this.lblCostoTotal.Size = new System.Drawing.Size(182, 37);
             this.lblCostoTotal.TabIndex = 7;
             this.lblCostoTotal.Text = "Costo Total";
             // 
             // txtImporte
             // 
-            this.txtImporte.Location = new System.Drawing.Point(121, 159);
+            this.txtImporte.Location = new System.Drawing.Point(308, 387);
+            this.txtImporte.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
             this.txtImporte.Name = "txtImporte";
             this.txtImporte.ReadOnly = true;
-            this.txtImporte.Size = new System.Drawing.Size(100, 20);
+            this.txtImporte.Size = new System.Drawing.Size(308, 44);
             this.txtImporte.TabIndex = 8;
             // 
             // btnCerrar
             // 
-            this.btnCerrar.Location = new System.Drawing.Point(567, 95);
+            this.btnCerrar.Location = new System.Drawing.Point(1796, 270);
+            this.btnCerrar.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
             this.btnCerrar.Name = "btnCerrar";
-            this.btnCerrar.Size = new System.Drawing.Size(97, 40);
+            this.btnCerrar.Size = new System.Drawing.Size(307, 114);
             this.btnCerrar.TabIndex = 9;
             this.btnCerrar.Text = "&Cerrar";
             this.btnCerrar.UseVisualStyleBackColor = true;
@@ -131,9 +142,9 @@ namespace SP2xResolver
             // 
             // frmMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(19F, 37F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(686, 262);
+            this.ClientSize = new System.Drawing.Size(1046, 510);
             this.Controls.Add(this.btnCerrar);
             this.Controls.Add(this.txtImporte);
             this.Controls.Add(this.lblCostoTotal);
@@ -144,6 +155,7 @@ namespace SP2xResolver
             this.Controls.Add(this.txtDistancia);
             this.Controls.Add(this.lblDias);
             this.Controls.Add(this.lblDistancia);
+            this.Margin = new System.Windows.Forms.Padding(10, 9, 10, 9);
             this.Name = "frmMain";
             this.Text = "Organizacion Ferrocarril";
             this.Load += new System.EventHandler(this.Form1_Load);
