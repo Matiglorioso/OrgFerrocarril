@@ -19,8 +19,9 @@ namespace SP2xResolver
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // estado inicial del formulario
-            int Dia; // variable para cargar el combo de dias
+            
+            int Dia;
+            btnCalcular.Enabled = false;    
             txtDistancia.Text = "";
             txtDistanciaTotal.Text = "";
             txtImporte.Text = "";
@@ -54,6 +55,18 @@ namespace SP2xResolver
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void txtDistancia_TextChanged(object sender, EventArgs e)
+        {
+            if(txtDistancia.Text != "")
+            {
+                btnCalcular.Enabled = true;
+            }
+            else
+            {
+                btnCalcular.Enabled = false;
+            }
         }
     }
 }

@@ -65,6 +65,7 @@ namespace SP2xResolver
             this.txtDistancia.Name = "txtDistancia";
             this.txtDistancia.Size = new System.Drawing.Size(100, 20);
             this.txtDistancia.TabIndex = 2;
+            this.txtDistancia.TextChanged += new System.EventHandler(this.txtDistancia_TextChanged);
             // 
             // cmbDias
             // 
