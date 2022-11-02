@@ -1,0 +1,10 @@
+D:\Escritorio\SP2xResolver\SP2xResolver\bin\Debug\SP2xResolver.exe.config
+D:\Escritorio\SP2xResolver\SP2xResolver\bin\Debug\SP2xResolver.exe
+D:\Escritorio\SP2xResolver\SP2xResolver\bin\Debug\SP2xResolver.pdb
+D:\Escritorio\SP2xResolver\SP2xResolver\obj\Debug\SP2xResolver.csproj.AssemblyReference.cache
+D:\Escritorio\SP2xResolver\SP2xResolver\obj\Debug\SP2xResolver.Form1.resources
+D:\Escritorio\SP2xResolver\SP2xResolver\obj\Debug\SP2xResolver.Properties.Resources.resources
+D:\Escritorio\SP2xResolver\SP2xResolver\obj\Debug\SP2xResolver.csproj.GenerateResource.cache
+D:\Escritorio\SP2xResolver\SP2xResolver\obj\Debug\SP2xResolver.csproj.CoreCompileInputs.cache
+D:\Escritorio\SP2xResolver\SP2xResolver\obj\Debug\SP2xResolver.exe
+D:\Escritorio\SP2xResolver\SP2xResolver\obj\Debug\SP2xResolver.pdb

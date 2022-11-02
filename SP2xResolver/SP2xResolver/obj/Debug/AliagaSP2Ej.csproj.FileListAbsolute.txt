@@ -1,0 +1,11 @@
+C:\Users\Alumnos\Downloads\SP2xResolver\SP2xResolver\bin\Debug\SP2xResolver.exe.config
+C:\Users\Alumnos\Downloads\SP2xResolver\SP2xResolver\bin\Debug\SP2xResolver.exe
+C:\Users\Alumnos\Downloads\SP2xResolver\SP2xResolver\bin\Debug\SP2xResolver.pdb
+C:\Users\Alumnos\Downloads\SP2xResolver\SP2xResolver\obj\Debug\AliagaSP2Ej.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Downloads\SP2xResolver\SP2xResolver\obj\Debug\AliagaSP2Ej.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumnos\Downloads\SP2xResolver\SP2xResolver\obj\Debug\SP2xResolver.frmMain.resources
+C:\Users\Alumnos\Downloads\SP2xResolver\SP2xResolver\obj\Debug\SP2xResolver.Properties.Resources.resources
+C:\Users\Alumnos\Downloads\SP2xResolver\SP2xResolver\obj\Debug\AliagaSP2Ej.csproj.GenerateResource.cache
+C:\Users\Alumnos\Downloads\SP2xResolver\SP2xResolver\obj\Debug\AliagaSP2Ej.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Downloads\SP2xResolver\SP2xResolver\obj\Debug\SP2xResolver.exe
+C:\Users\Alumnos\Downloads\SP2xResolver\SP2xResolver\obj\Debug\SP2xResolver.pdb
