@@ -29,35 +29,35 @@ namespace SP2xResolver
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
+            this.lblDistancia = new System.Windows.Forms.Label();
+            this.lblDias = new System.Windows.Forms.Label();
             this.txtDistancia = new System.Windows.Forms.TextBox();
             this.cmbDias = new System.Windows.Forms.ComboBox();
-            this.label3 = new System.Windows.Forms.Label();
+            this.lblDistanciaTotal = new System.Windows.Forms.Label();
             this.txtDistanciaTotal = new System.Windows.Forms.TextBox();
             this.btnCalcular = new System.Windows.Forms.Button();
-            this.label4 = new System.Windows.Forms.Label();
+            this.lblCostoTotal = new System.Windows.Forms.Label();
             this.txtImporte = new System.Windows.Forms.TextBox();
             this.btnCerrar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // label1
+            // lblDistancia
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(39, 37);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(74, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Distancia [km]";
+            this.lblDistancia.AutoSize = true;
+            this.lblDistancia.Location = new System.Drawing.Point(39, 37);
+            this.lblDistancia.Name = "lblDistancia";
+            this.lblDistancia.Size = new System.Drawing.Size(74, 13);
+            this.lblDistancia.TabIndex = 0;
+            this.lblDistancia.Text = "Distancia [km]";
             // 
-            // label2
+            // lblDias
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(39, 95);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(28, 13);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Dias";
+            this.lblDias.AutoSize = true;
+            this.lblDias.Location = new System.Drawing.Point(39, 95);
+            this.lblDias.Name = "lblDias";
+            this.lblDias.Size = new System.Drawing.Size(28, 13);
+            this.lblDias.TabIndex = 1;
+            this.lblDias.Text = "Dias";
             // 
             // txtDistancia
             // 
@@ -74,14 +74,14 @@ namespace SP2xResolver
             this.cmbDias.Size = new System.Drawing.Size(100, 21);
             this.cmbDias.TabIndex = 3;
             // 
-            // label3
+            // lblDistanciaTotal
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(284, 37);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(141, 13);
-            this.label3.TabIndex = 4;
-            this.label3.Text = "Distancia Total (ida y vuelta)";
+            this.lblDistanciaTotal.AutoSize = true;
+            this.lblDistanciaTotal.Location = new System.Drawing.Point(284, 37);
+            this.lblDistanciaTotal.Name = "lblDistanciaTotal";
+            this.lblDistanciaTotal.Size = new System.Drawing.Size(141, 13);
+            this.lblDistanciaTotal.TabIndex = 4;
+            this.lblDistanciaTotal.Text = "Distancia Total (ida y vuelta)";
             // 
             // txtDistanciaTotal
             // 
@@ -101,14 +101,14 @@ namespace SP2xResolver
             this.btnCalcular.UseVisualStyleBackColor = true;
             this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
             // 
-            // label4
+            // lblCostoTotal
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(39, 162);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(61, 13);
-            this.label4.TabIndex = 7;
-            this.label4.Text = "Costo Total";
+            this.lblCostoTotal.AutoSize = true;
+            this.lblCostoTotal.Location = new System.Drawing.Point(39, 162);
+            this.lblCostoTotal.Name = "lblCostoTotal";
+            this.lblCostoTotal.Size = new System.Drawing.Size(61, 13);
+            this.lblCostoTotal.TabIndex = 7;
+            this.lblCostoTotal.Text = "Costo Total";
             // 
             // txtImporte
             // 
@@ -128,23 +128,23 @@ namespace SP2xResolver
             this.btnCerrar.UseVisualStyleBackColor = true;
             this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
             // 
-            // Form1
+            // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(686, 262);
             this.Controls.Add(this.btnCerrar);
             this.Controls.Add(this.txtImporte);
-            this.Controls.Add(this.label4);
+            this.Controls.Add(this.lblCostoTotal);
             this.Controls.Add(this.btnCalcular);
             this.Controls.Add(this.txtDistanciaTotal);
-            this.Controls.Add(this.label3);
+            this.Controls.Add(this.lblDistanciaTotal);
             this.Controls.Add(this.cmbDias);
             this.Controls.Add(this.txtDistancia);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
-            this.Name = "Form1";
-            this.Text = "Organizaciòn Ferro";
+            this.Controls.Add(this.lblDias);
+            this.Controls.Add(this.lblDistancia);
+            this.Name = "frmMain";
+            this.Text = "Organizacion Ferrocarril";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -153,14 +153,14 @@ namespace SP2xResolver
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label lblDistancia;
+        private System.Windows.Forms.Label lblDias;
         private System.Windows.Forms.TextBox txtDistancia;
         private System.Windows.Forms.ComboBox cmbDias;
-        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label lblDistanciaTotal;
         private System.Windows.Forms.TextBox txtDistanciaTotal;
         private System.Windows.Forms.Button btnCalcular;
-        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label lblCostoTotal;
         private System.Windows.Forms.TextBox txtImporte;
         private System.Windows.Forms.Button btnCerrar;
     }
