@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matias\\source\\repos\\OrgFerrocarril\\SP2xResolver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A16EDB3-4D6B-4F11-B76A-843C989EE665}|SP2xResolver\\OrgFerrocarril.csproj|c:\\users\\matias\\source\\repos\\orgferrocarril\\sp2xresolver\\sp2xresolver\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A16EDB3-4D6B-4F11-B76A-843C989EE665}|SP2xResolver\\OrgFerrocarril.csproj|solutionrelative:sp2xresolver\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A16EDB3-4D6B-4F11-B76A-843C989EE665}|SP2xResolver\\AliagaSP2Ej.csproj|c:\\users\\matias\\source\\repos\\orgferrocarril\\sp2xresolver\\sp2xresolver\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A16EDB3-4D6B-4F11-B76A-843C989EE665}|SP2xResolver\\AliagaSP2Ej.csproj|solutionrelative:sp2xresolver\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A16EDB3-4D6B-4F11-B76A-843C989EE665}|SP2xResolver\\OrgFerrocarril.csproj|c:\\users\\matias\\source\\repos\\orgferrocarril\\sp2xresolver\\sp2xresolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A16EDB3-4D6B-4F11-B76A-843C989EE665}|SP2xResolver\\OrgFerrocarril.csproj|solutionrelative:sp2xresolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|OrgFerrocarril||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A16EDB3-4D6B-4F11-B76A-843C989EE665}|SP2xResolver\\AliagaSP2Ej.csproj|C:\\Users\\Matias\\source\\repos\\OrgFerrocarril\\SP2xResolver\\sp2xresolver\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A16EDB3-4D6B-4F11-B76A-843C989EE665}|SP2xResolver\\AliagaSP2Ej.csproj|solutionrelative:sp2xresolver\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A16EDB3-4D6B-4F11-B76A-843C989EE665}|SP2xResolver\\OrgFerrocarril.csproj|c:\\users\\matias\\source\\repos\\orgferrocarril\\sp2xresolver\\sp2xresolver\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrgFerrocarril",
+              "DocumentMoniker": "C:\\Users\\Matias\\Source\\Repos\\OrgFerrocarril\\SP2xResolver\\SP2xResolver\\OrgFerrocarril.csproj",
+              "RelativeDocumentMoniker": "SP2xResolver\\OrgFerrocarril.csproj",
+              "ToolTip": "C:\\Users\\Matias\\Source\\Repos\\OrgFerrocarril\\SP2xResolver\\SP2xResolver\\OrgFerrocarril.csproj",
+              "RelativeToolTip": "SP2xResolver\\OrgFerrocarril.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-31T14:17:39.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matias\\source\\repos\\OrgFerrocarril\\SP2xResolver\\SP2xResolver\\Program.cs",
+              "RelativeDocumentMoniker": "SP2xResolver\\Program.cs",
+              "ToolTip": "C:\\Users\\Matias\\source\\repos\\OrgFerrocarril\\SP2xResolver\\SP2xResolver\\Program.cs",
+              "RelativeToolTip": "SP2xResolver\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:17:10.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Matias\\source\\repos\\OrgFerrocarril\\SP2xResolver\\SP2xResolver\\frmMain.cs",
+              "RelativeDocumentMoniker": "SP2xResolver\\frmMain.cs",
+              "ToolTip": "C:\\Users\\Matias\\source\\repos\\OrgFerrocarril\\SP2xResolver\\SP2xResolver\\frmMain.cs",
+              "RelativeToolTip": "SP2xResolver\\frmMain.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:17:02.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Matias\\source\\repos\\OrgFerrocarril\\SP2xResolver\\SP2xResolver\\frmMain.cs",
+              "RelativeDocumentMoniker": "SP2xResolver\\frmMain.cs",
+              "ToolTip": "C:\\Users\\Matias\\source\\repos\\OrgFerrocarril\\SP2xResolver\\SP2xResolver\\frmMain.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SP2xResolver\\frmMain.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:16:53.658Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Matias\\source\\repos\\OrgFerrocarril\\SP2xResolver\\SP2xResolver\\frmMain.cs",
+              "RelativeDocumentMoniker": "SP2xResolver\\frmMain.cs",
+              "ToolTip": "C:\\Users\\Matias\\source\\repos\\OrgFerrocarril\\SP2xResolver\\SP2xResolver\\frmMain.cs",
+              "RelativeToolTip": "SP2xResolver\\frmMain.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAA5wE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-31T14:16:53.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

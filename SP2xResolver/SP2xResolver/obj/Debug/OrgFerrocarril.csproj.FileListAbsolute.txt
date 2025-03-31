@@ -1,0 +1,10 @@
+C:\Users\Matias\Source\Repos\OrgFerrocarril\SP2xResolver\SP2xResolver\obj\Debug\OrgFerrocarril.csproj.AssemblyReference.cache
+C:\Users\Matias\Source\Repos\OrgFerrocarril\SP2xResolver\SP2xResolver\obj\Debug\OrgFerrocarril.csproj.GenerateResource.cache
+C:\Users\Matias\Source\Repos\OrgFerrocarril\SP2xResolver\SP2xResolver\obj\Debug\OrgFerrocarril.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Source\Repos\OrgFerrocarril\SP2xResolver\SP2xResolver\bin\Debug\SP2xResolver.exe.config
+C:\Users\Matias\Source\Repos\OrgFerrocarril\SP2xResolver\SP2xResolver\bin\Debug\SP2xResolver.exe
+C:\Users\Matias\Source\Repos\OrgFerrocarril\SP2xResolver\SP2xResolver\bin\Debug\SP2xResolver.pdb
+C:\Users\Matias\Source\Repos\OrgFerrocarril\SP2xResolver\SP2xResolver\obj\Debug\SP2xResolver.Properties.Resources.resources
+C:\Users\Matias\Source\Repos\OrgFerrocarril\SP2xResolver\SP2xResolver\obj\Debug\SP2xResolver.exe
+C:\Users\Matias\Source\Repos\OrgFerrocarril\SP2xResolver\SP2xResolver\obj\Debug\SP2xResolver.pdb
+C:\Users\Matias\Source\Repos\OrgFerrocarril\SP2xResolver\SP2xResolver\obj\Debug\SP2xResolver.frmMain.resources
